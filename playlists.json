@@ -55,6 +55,70 @@
     "type": "album",
     "year": 2009,
     "artist": "Immortal"
-  }
+  },
+  {
+    "id": "7g7v7Vbxfb3KscxrVURxJB",
+    "name": "At The Heart Of Winter",
+    "type": "album",
+    "year": 1999,
+    "artist": "Immortal"
+  },
+  {
+    "id": "2rsp7WfDIlRmnhNW1djm3j",
+    "name": "Battles in the North",
+    "type": "album",
+    "year": 1994,
+    "artist": "Immortal"
+  },
+  {
+    "id": "1SJpZd5VOSgDcRucRcvH0R",
+    "name": "Blizzard Beasts",
+    "type": "album",
+    "year": 1997,
+    "artist": "Immortal"
+  },
+  {
+    "id": "0G9Vx9JWCFYXfon5Gcv27E",
+    "name": "Damned In Black",
+    "type": "album",
+    "year": 2000,
+    "artist": "Immortal"
+  },
+  {
+    "id": "5mGI3SUGG8nvDNXiegMN4n",
+    "name": "Diabolical Fullmoon Mysticism",
+    "type": "album",
+    "year": 1992,
+    "artist": "Immortal"
+  },
+  {
+    "id": "5PszVbP2skTRcUkk1rA8Sy",
+    "name": "Northern Chaos Gods",
+    "type": "album",
+    "year": 2018,
+    "artist": "Immortal"
+  },
+  {
+    "id": "1kZ18QPHo1lboYvivhugmx",
+    "name": "Pure Holocaust",
+    "type": "album",
+    "year": 1993,
+    "artist": "Immortal"
+  },
+  {
+    "id": "27FzUBIbBTf7DoV9BySUJ6",
+    "name": "Sons of Northern Darkness",
+    "type": "album",
+    "year": 2002,
+    "artist": "Immortal"
+  },
+  {
+    "id": "4xUTxp3VrD8MCkhNCnfSRO",
+    "name": "War Against All",
+    "type": "album",
+    "year": 2023,
+    "artist": "Immortal"
+  },
+  
   
 ]
