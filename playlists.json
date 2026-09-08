@@ -142,11 +142,17 @@
   },
   {
     "id": "0wpinl2Ew4kEd6wTWzKXFl",
-    "name": "Singles",
+    "name": "Singles 01",
+    "type": "single",
+    "year": 0,
+    "artist": "Morteza Pashaei"
+  },
+  {
+    "id": "4iKNWGOU5Na8yBZ3UZlqdO",
+    "name": "Singles 02",
     "type": "single",
     "year": 0,
     "artist": "Morteza Pashaei"
   }
-  
   
 ]
