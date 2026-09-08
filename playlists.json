@@ -118,6 +118,34 @@
     "type": "album",
     "year": 2023,
     "artist": "Immortal"
+  },
+  {
+    "id": "75CoUQB6r1cqOqiavqqubG",
+    "name": "Yeki Hast",
+    "type": "album",
+    "year": 2012,
+    "artist": "Morteza Pashaei"
+  },
+  {
+    "id": "75CoUQB6r1cqOqiavqqubG",
+    "name": "The Name Is Love",
+    "type": "album",
+    "year": 2015,
+    "artist": "Morteza Pashaei"
+  },
+  {
+    "id": "1JVgNTnIfFz5nS1YxcKzrG",
+    "name": "Yeki Hast",
+    "type": "album",
+    "year": 2017,
+    "artist": "Morteza Pashaei"
+  },
+  {
+    "id": "0wpinl2Ew4kEd6wTWzKXFl",
+    "name": "Singles",
+    "type": "single",
+    "year": 0,
+    "artist": "Morteza Pashaei"
   }
   
   
